@@ -13,6 +13,3 @@ order: 4
 我是Tan Hao。目前我在 字节跳动 担任 data-infra
 工程师，我曾短暂地（3个月）在阿里云工作过一段时间。目前我主要关注分布式系统，Data
 Infrastructure。
-
-### Contact Me
-Email: tanhaoyc@gmail.com
