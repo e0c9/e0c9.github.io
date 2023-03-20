@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>谭浩的博客</title>
+  
+  
+  <link href="http://e0c8.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://e0c8.github.io/"/>
+  <updated>2023-03-20T14:56:13.517Z</updated>
+  <id>http://e0c8.github.io/</id>
+  
+  <author>
+    <name>Hao Tan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://e0c8.github.io/2023/03/20/hello-world/"/>
+    <id>http://e0c8.github.io/2023/03/20/hello-world/</id>
+    <published>2023-03-20T14:56:13.517Z</published>
+    <updated>2023-03-20T14:56:13.517Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
