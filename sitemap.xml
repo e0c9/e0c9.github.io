@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>tanyihao.me/posts/hello-world/</loc>
+    <lastmod>2023-06-08T13:23:52+08:00</lastmod>
+  </url><url>
+    <loc>tanyihao.me/posts/</loc>
+    <lastmod>2023-06-08T13:23:52+08:00</lastmod>
+  </url><url>
+    <loc>tanyihao.me/</loc>
+    <lastmod>2023-06-08T13:23:52+08:00</lastmod>
+  </url><url>
     <loc>tanyihao.me/about/</loc>
     <lastmod>2023-06-07T16:02:21+08:00</lastmod>
   </url><url>
     <loc>tanyihao.me/categories/</loc>
   </url><url>
     <loc>tanyihao.me/tags/</loc>
-  </url><url>
-    <loc>tanyihao.me/</loc>
   </url>
 </urlset>
